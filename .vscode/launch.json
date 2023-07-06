@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "d:\\laravel\\Portfolio Website\\html\\index.html"
+            "file": "d:\\laravel\\Portfolio Website\\index.html"
         }
     ]
 }
